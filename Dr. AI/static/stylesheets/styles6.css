@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+body h1{
+    font-size: 80px;
+    font-weight: 500;
+    color:white;
+    margin-left: 550px;
+}
+#demo{
+    font-size: 40px;
+    align-self: center;
+    color: rgb(255, 0, 0);
+    margin-top: 500px;
+    margin-left:400px;
+}
+
